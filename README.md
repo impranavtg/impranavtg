@@ -1,7 +1,4 @@
 
-Here’s your GitHub profile README with a clean and engaging structure:
-
-⸻
 
 👋 Hi, I’m Pranav Tyagi!
 
@@ -25,12 +22,6 @@ Here’s your GitHub profile README with a clean and engaging structure:
 	•	🔥 Love building scalable web & mobile applications
 	•	🛠️ Enjoy debugging & optimizing performance
 
-⸻
-
-📊 GitHub Stats
-
-
-⸻
 
 🤝 Let’s Connect!
 
